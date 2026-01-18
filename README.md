@@ -30,5 +30,4 @@ If you actually want to contact me about something here → probably better use 
 3. Discord @crushedcandle55
 4. Tencent QQ 2709130149
 
-Happy reading (or cringing) :)
-```
+**Happy reading (or cringing) :)**
