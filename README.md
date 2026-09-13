@@ -9,7 +9,7 @@ Currently (Jan 2026) I'm a secondary school Form 4 Hongkonger,
 What you can find here:
 
 • F.2/F.3 school projects
-  (most of them are quite messy and no annotationw)
+  (most of them are quite messy and no comment qwq)
 
 • Random playing / experimenal code
   (small tools, bad ideas that seemed funny at 2 a.m., etc.)
